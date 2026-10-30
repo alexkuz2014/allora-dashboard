@@ -52,3 +52,7 @@ Development priorities include clearer dashboard navigation, improved mobile lay
 ## Questions and access
 
 For public questions, contact [the project owner](https://github.com/alexkuz2014). Do not submit tokens, personal records or private community data in public discussions. See the [FAQ](FAQ.md) for access and source-code questions.
+
+## Activity & observations
+
+[Activity & observations](ACTIVITY.md)

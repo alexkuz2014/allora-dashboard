@@ -9,12 +9,12 @@
 | Metric | Observation |
 |---|---|
 | Monitoring started (UTC) | 2026-10-30T07:45:00.000Z |
-| Latest sample (UTC) | 2026-11-05T21:50:02.506Z |
-| Sample age when published | 4 minutes |
+| Latest sample (UTC) | 2026-11-06T03:45:04.608Z |
+| Sample age when published | 1 minutes |
 | Bot container running at latest sample | Yes |
 | API health response at latest sample | Passed |
-| Current bot container started (UTC) | 2026-11-05T21:34:51.568Z |
-| Recorded checks | 1898 |
+| Current bot container started (UTC) | 2026-11-05T21:54:05.702Z |
+| Recorded checks | 1969 |
 | Bot container checks passing | 100.00% |
 | API checks passing | 100.00% |
 | Both checks passing | 100.00% |

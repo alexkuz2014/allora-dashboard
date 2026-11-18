@@ -10,7 +10,7 @@
 |---|---|
 | Monitoring started (UTC) | 2026-10-30T07:45:00.000Z |
 | Latest sample (UTC) | 2026-11-18T11:15:03.690Z |
-| Sample age when published | 1 minutes |
+| Sample age when published | 4 minutes |
 | Bot container running at latest sample | Yes |
 | API health response at latest sample | Passed |
 | Current bot container started (UTC) | 2026-11-18T02:05:43.170Z |

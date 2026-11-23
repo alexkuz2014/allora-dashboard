@@ -2,7 +2,7 @@
 
 [← Allora Dashboard](README.md)
 
-Last successful deployment update: **2026-11-23T11:06:00.730Z**.
+Last successful deployment update: **2026-11-23T12:02:38.366Z**.
 
 The deployment publisher completed its startup checks. This does not certify every external integration or guarantee uptime.
 

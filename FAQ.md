@@ -16,7 +16,7 @@ This repository does not promise a public demo, invitation or hosted access. Ask
 
 ## Does every deployment copy the private repository here?
 
-No. Only explicitly selected public documents and a generated update marker can be published. Commit messages from private development and internal issue details are not copied. Documentation changes require deliberate editing of the public materials.
+No. Only explicitly selected public documents, aggregate service observations and a generated update marker can be published. Commit messages from private development and internal issue details are not copied. Documentation changes require deliberate editing of the public materials.
 
 ## Are the pictures real community data?
 
@@ -25,3 +25,7 @@ The included image is an illustrative layout, not a live screenshot. It contains
 ## Does an update marker prove everything is healthy?
 
 No. It records completion of the deployment checks used by the publisher. It is not an uptime monitor or a guarantee that every third-party integration is working.
+
+## How does access work for several Discord servers?
+
+One installation can serve several communities, each with its own settings and server-scoped data. The platform owner controls subscriptions and access; community administrators manage their own settings. Payment records and a signed payment webhook are supported, but no payment provider is integrated. Contact the owner for current availability and terms.

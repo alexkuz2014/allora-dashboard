@@ -27,6 +27,7 @@ This repository is a public product overview. The application source and operati
 | AI assistant | Help members find information and assist authorized operators with supported tools. |
 | Telegram integration | Connect supported Telegram updates to community workflows. |
 | Administration | Configure features, roles and integration settings. |
+| Multi-server service | Separate community settings and subscription access, with a platform-owner console. |
 
 Availability depends on community configuration, permissions and external services. This overview describes the project scope, not a promise that every feature is enabled for every community.
 
@@ -45,7 +46,7 @@ The private implementation uses TypeScript, React, Fastify, Discord.js, PostgreS
 
 ## Project updates
 
-This showcase receives only curated public documents and a deployment update marker. It does not mirror private commits, source files, internal plans, logs or credentials. See [updates](UPDATES.md).
+This showcase receives curated public documents, aggregate service observations, and a deployment update marker. It does not mirror private commits, source files, internal plans, logs or credentials. See [updates](UPDATES.md).
 
 Development priorities include clearer dashboard navigation, improved mobile layouts, accessibility and dependable operations. An update marker is not a guarantee of uptime or successful connectivity to every external service.
 

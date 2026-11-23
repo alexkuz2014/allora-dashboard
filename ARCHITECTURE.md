@@ -28,4 +28,6 @@ flowchart LR
 
 The implementation uses TypeScript, React, Fastify, Discord.js, PostgreSQL and Redis, with Docker for service packaging. This diagram is intentionally conceptual: it does not expose hostnames, ports, credentials, schema details or operational endpoints.
 
+The shared installation serves multiple Discord servers. Server-scoped data and settings are isolated, and subscription checks control service access. A separate owner console manages platform-wide operations.
+
 Permissions must be enforced by the backend; hiding an interface control is not an authorization boundary. External services have independent availability and access requirements.
